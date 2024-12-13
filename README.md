@@ -7,7 +7,7 @@ Aspiring mobile and web developer, creative and passionate, seeking to put my sk
 
 ## 🧰 Tech Toolbox
 - **Web:** HTML, CSS, JavaScript, React.js, Tailwind Css
-- **Mobile:** FLutter, React Native, Koltin
+- **Mobile:** Flutter, React Native, Kotlin
 - **Back-end:** Node.js, Express.js, FireBase
 - **Databases:** SQLite, PostgreSQL
 
