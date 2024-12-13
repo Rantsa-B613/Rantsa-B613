@@ -13,8 +13,8 @@ Aspiring mobile and web developer, creative and passionate, seeking to put my sk
 
 ---
 
-## 📬 Get in Touch
-- **WhatsApp:** +261 34 26 347 26(#)
+## 📬 Let's Talk
+- **WhatsApp:** +261 34 26 347 26
 
 ---
 
